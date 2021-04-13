@@ -16,7 +16,7 @@ some features in website are:
 2. Product Corousel
 3. 3rd party API integration for the payment gateway.
 
-Deployment
+Deployment: 
 This website is deployed at gkshopapp.herokuapp.com
 
 
