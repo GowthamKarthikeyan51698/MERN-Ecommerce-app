@@ -15,8 +15,8 @@ some features in website are:
 1. Pagination
 2. Product Corousel
 3. 3rd party API integration for the payment gateway.
-4. Admin permission to modify the add, edit and delete the user or the product
-
+4. Admin permission to modify the add, edit and delete the user or the product.
+5. Product reviews and ratings.
 
 
 Deployment: 
